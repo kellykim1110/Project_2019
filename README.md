@@ -7,7 +7,7 @@
 <hr>
 
 
-## WHAT I USE FOR PR USUALLY
+## Which Project Language I use for Project
 <h3> Jupyter Notebook </h3>
 
 <b> Latest : Version 2019.07 | Release Date: July 25, 2019 </b>
