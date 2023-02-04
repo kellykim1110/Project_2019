@@ -23,10 +23,8 @@
 
 
 [문장형 수학 문제 풀이 모델](https://github.com/kellykim1110/Project_2019/blob/master/%EB%AC%B8%EC%9E%A5%ED%98%95%EC%88%98%ED%95%99%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4%EB%AA%A8%EB%8D%B8/%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
-```
-<br/>
 
-<br>
+
 ## Which Project Language I use for Project
 <h3> Jupyter Notebook </h3>
 
