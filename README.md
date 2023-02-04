@@ -6,6 +6,24 @@
 
 <hr>
 
+## Which Project I Do
+```
+├── BLOOD
+├── CNN_Recycling_Clothes
+├── NO_JAPAN
+└── 문장형수학문제풀이모델
+```
+
+[헌혈 실적 증대를 위한 빅데이터 분석](https://github.com/kellykim1110/Project_2019/blob/master/BLOOD/Blood_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+
+[의류 재활용을 위한 분류 자동화 시스템](https://github.com/kellykim1110/Project_2019/blob/master/CNN_Recycling_Clothes/clothes_recycling_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+
+
+[일본 불매 운동을 활용한 마케팅](https://github.com/kellykim1110/Project_2019/blob/master/NO_JAPAN/NO%20JAPAN_%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+
+
+[문장형 수학 문제 풀이 모델](https://github.com/kellykim1110/Project_2019/blob/master/%EB%AC%B8%EC%9E%A5%ED%98%95%EC%88%98%ED%95%99%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4%EB%AA%A8%EB%8D%B8/%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+```
 
 ## Which Project Language I use for Project
 <h3> Jupyter Notebook </h3>
