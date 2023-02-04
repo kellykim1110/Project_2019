@@ -1,8 +1,7 @@
 # 2019 project
 
-<div align='right'><font size=2 color='gray'>[김슬기](kelly.kim19951110@gmail.com)</font></div>
+<div align='right'><font size=2 color='gray'>김슬기 &lt; kelly.kim19951110@gmail.com  &gt;  </font></div>
 <br>
-
 
 <hr>
 
