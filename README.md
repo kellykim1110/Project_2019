@@ -84,4 +84,4 @@
 
 
 <marquee><div align='right'><font size=3 color='brown'>Let's learn the programming and how to analyze the data. </font></div></marquee>
-<div align='right'><font size=2 color='gray'> &lt; The End &gt; </font></div>
+<div align='right'><font size=2 color='gray'> &lt; </font></div>
